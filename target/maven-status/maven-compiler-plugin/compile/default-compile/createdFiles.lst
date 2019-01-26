@@ -1,0 +1,4 @@
+com\tecsup\javawebavanzado\sesion05\error\MyAccessDeniedHandler.class
+com\tecsup\javawebavanzado\sesion05\SpringBootWebApplication.class
+com\tecsup\javawebavanzado\sesion05\config\SpringSecurityConfig.class
+com\tecsup\javawebavanzado\sesion05\controller\DefaultController.class
